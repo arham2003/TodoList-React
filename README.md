@@ -2,7 +2,7 @@
 
 A clean and simple to-do list application built with **React**, **Next.js**, and **Tailwind CSS**. This app allows users to add, view, and delete tasks efficiently.
 
-![Demo Screenshot](React-todo-list.png)
+![Demo Screenshot](React%20todo%20list.png)
 
 ## ✨ Features
 
